@@ -1,2 +1,2 @@
 first/master
-changes in first subtree/master
+changes from first repository
