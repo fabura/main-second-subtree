@@ -1,1 +1,1 @@
-second/master
+second/feature-branch
